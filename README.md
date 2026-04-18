@@ -15,7 +15,7 @@ Instead of manually logging meals, users can simply upload or click a photo of t
 ## 📂 Repository
 
 👉 **Explore the codebase:**  
-🔗 https://github.com/your-username/nutri-ai
+🔗 https://github.com/Ashutosh-kesharwan/nutri-ai
 
 ---
 
