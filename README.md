@@ -10,6 +10,7 @@ Instead of manually logging meals, users can simply upload or click a photo of t
 👉 **Try the app here:**  
 🔗 https://your-live-app-link.com
 
+
 ---
 
 
